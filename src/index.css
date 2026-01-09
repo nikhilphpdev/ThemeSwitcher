@@ -1,0 +1,21 @@
+/* Default styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Light Theme */
+.light-theme {
+  background-color: #ffffff;
+  color: #000000;
+  min-height: 100vh;
+  transition: all 0.3s ease-in-out;
+}
+
+/* Dark Theme */
+.dark-theme {
+  background-color: #121212;
+  color: #ffffff;
+  min-height: 100vh;
+  transition: all 0.3s ease-in-out;
+}
